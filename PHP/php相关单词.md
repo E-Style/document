@@ -1,0 +1,53 @@
+## php相关的单词
+- syntax 语法
+- error 报错
+- domain 区域
+- load 载入
+- module 模块
+- load module 载入模块
+- add type 添加类型
+- time zone 时区
+- document root 根目录
+- global 全局
+- define 定义
+- decimal 十进制
+- binary 二进制
+- octonary 八进制
+- hexdecimal 十六进制
+- notice 警告
+- line 第几行
+- range 范围
+- merge 合并
+- split 拆分
+- array 数组
+- right 右边
+- index 索引
+- random 随机数
+- shuffle 打乱
+- join 连接
+- exit 退出
+- insert 插入
+- delete 删除
+- update 更新
+- database(db)数据库
+- detail 详情
+- list 列表
+- edit 编辑
+- connect 连接
+- index 索引
+- fetch 获取
+- query 查询
+- redirect 跳转
+- empty 空
+- interval 整数
+- float 浮点数、小数
+- double 浮点数、小数
+- decimal 小数
+- print 打印
+- association 关联
+- context 上下文环境
+- retrive 获取
+- create 创建
+- drop 销毁，放弃
+- cookie 馅饼
+- session 会话
